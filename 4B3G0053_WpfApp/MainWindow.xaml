@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_4B3G0053_WpfApp"
         mc:Ignorable="d"
-       Title="飲料點餐系統ver3" Height="624" Width="838">
+        Title="飲料點餐系統" Height="624" Width="838">
     <Grid Margin="0,0,0,0">
         <Grid.RowDefinitions>
             <RowDefinition Height="85"/>
@@ -27,4 +27,3 @@
         <TextBlock x:Name="Result_TextBlock" Margin="10,10,10,10" Grid.Row="2" TextWrapping="Wrap" Grid.ColumnSpan="2" FontSize="16" Background="#FFEBEFDE" Padding="10,10,10,10"/>
 
     </Grid>
-</Window>
