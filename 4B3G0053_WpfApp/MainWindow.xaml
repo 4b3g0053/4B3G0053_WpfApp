@@ -27,3 +27,4 @@
         <TextBlock x:Name="Result_TextBlock" Margin="10,10,10,10" Grid.Row="2" TextWrapping="Wrap" Grid.ColumnSpan="2" FontSize="16" Background="#FFEBEFDE" Padding="10,10,10,10"/>
 
     </Grid>
+﻿</Window>
